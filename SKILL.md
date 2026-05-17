@@ -1,5 +1,6 @@
 ---
 name: video-prompt-reverse-engineer
+version: 3.1.0
 description: "AI video prompt reverse engineering expert. Upload a video, screenshot, or link — automatically extract keyframes, break down shots, identify camera language, lighting, color grading, and director style. Reverse-engineer AI video prompts for Kling, Runway, Veo, Sora, Pika, Midjourney, SDXL and more. Output structured prompts (positive/negative/camera/motion/style/lighting) with parameters and a full reproduction workflow. Use when user provides a video link, file, screenshot, or asks to analyze, deconstruct, or replicate a video's visual style and production pipeline."
 ---
 
